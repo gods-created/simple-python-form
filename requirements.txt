@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+loguru
+starlette
+mongoengine
+pydantic[email]
+Jinja2
